@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/dukelester/Desktop/React Native/ReactNativeStart'
+make: Leaving directory '/home/dukelester/Desktop/React Native/ReactNativeStart'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
